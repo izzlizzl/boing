@@ -1,0 +1,18 @@
+{
+  "name": "Boing",
+  "short_name": "Boing",
+  "description": "A calm daily home workout: one strength routine plus a movement skill of the day.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F6F6F3",
+  "theme_color": "#F6F6F3",
+  "categories": ["health", "fitness"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
